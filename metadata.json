@@ -1,0 +1,6 @@
+{
+  "name": "Infinity Connect",
+  "description": "Infinity Connect is a beautiful, advanced, full-featured web browser with multi-tab support, incognito browsing, speed dial, files manager, adblocker, smart downloading and voice search.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
